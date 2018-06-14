@@ -2,4 +2,4 @@
 Program using gamebox and pygame, made in CS 1111 at UVA
 
 
-The gamebox.py file was given to students by the UVA CS department as a basis for us to write our game. In order to run the game, download both files as well as the accompanying image and sound files (I do not take credit for any of those).
+The gamebox.py file was given to students by the UVA CS department as a basis for us to write our game. In order to run the game, download both files as well as the accompanying image and sound files (I do not take credit for those).
